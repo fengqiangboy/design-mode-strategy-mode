@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="discount_type" >
+        <item>85折</item>
+        <item>80折</item>
+        <item>满200减10</item>
+        <item>满800减80</item>
+    </string-array>
+</resources>
